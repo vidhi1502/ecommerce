@@ -1,0 +1,8 @@
+nav{font-family: 'Rubik Bubbles', serif;}
+.abc{display:flex;justify-content: center;}
+.img{transform: rotate(90deg);}
+.banner{width:18rem;height:20rem;}
+h2{font-family: 'Rubik Bubbles';text-align: center;padding: 10px;}
+.card-img-top{height:15rem;}
+.cards{font-family: 'Rubik Bubbles', serif;height: 50rem;}
+*{background-color:rgb(124, 161, 67) ;}
